@@ -16,6 +16,11 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
 ############################
 ## MODULES
 ############################
