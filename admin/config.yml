@@ -212,7 +212,7 @@ collections:
     widget: object
   - label: Email (to use a Gravatar.com avatar)
     name: email
-    required: false
+    required: true
     widget: string
   - default: false
     label: Super user (is this the primary site user?)

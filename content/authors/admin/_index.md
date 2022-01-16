@@ -14,7 +14,7 @@ organizations:
   url: https://msu.edu//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include speech recognitions, signal processing, machine learning, IoT applications.
 
 # Interests to show in About widget
 interests:
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:guohanqi@msu.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/guohahaha1
@@ -59,18 +59,18 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "guohanqi@msu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a third year Phd Candidate of computer science at Michigan State University, [SEIT](https://seit.egr.msu.edu/)(SEcure and Intelligent Things) lab and [eLANS](http://elansweb.cse.msu.edu/)(experimental Laboratory for Advanced Networks and Systems) lab. My research interests include signal processing, speech recognition, machine learning, AI-enabled mobile systems. I am co-advised by Dr. Xiao Li and Dr. Qiben Yan.
+I am a third year Phd Candidate of computer science at Michigan State University, [SEIT](https://seit.egr.msu.edu/)(SEcure and Intelligent Things) lab and [eLANS](http://elansweb.cse.msu.edu/)(experimental Laboratory for Advanced Networks and Systems) lab. My research interests include signal processing, speech recognition, machine learning, AI-enabled mobile systems. I am co-advised by [Dr. Xiao Li](http://www.cse.msu.edu/~lxiao/) and [Dr. Qiben Yan](https://cse.msu.edu/~qyan/).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
