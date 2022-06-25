@@ -11,7 +11,7 @@ date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2021-8-15T00:00:00Z"
 
 authors: []
 tags: []
@@ -20,10 +20,10 @@ tags: []
 featured: false
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/guohahaha1
+  name: Demo
+  url: https://nec-app.github.io/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -34,7 +34,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

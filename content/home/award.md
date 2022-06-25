@@ -48,7 +48,7 @@ span.normal{
 }
 </style>
 <div class="ex2">
-
+<span class="date"> [Sep. 2021]</span> <span class="normal">Student Travel Grant </span><span class="emp"> IEEE DSN 2022</span><span class="normal">   </span> <br>
   <span class="date"> [Sep. 2021]</span> <span class="normal">Best Paper Award for </span><span class="emp"> ACM SenSys 2021</span><span class="normal"> <a href="https://sensys.acm.org/2021/">Check it!</a>  </span> <br>
   <span class="date"> [Dec. 2019]</span> <span class="normal">Best Paper Award for </span><span class="emp">IEEE Globecom 2019</span><span class="normal">  <a href="https://globecom2019.ieee-globecom.org/program/globecom-2019-awards">Check it!</a>  </span> <br>
   <span class="date"> [Mar. 2018]</span> <span class="emp"> Graduate Merit Scholarships </span><span class="normal"><a href="https://www.bsu.edu/academics/collegesanddepartments/computer-science">Check it!</a>  </span>

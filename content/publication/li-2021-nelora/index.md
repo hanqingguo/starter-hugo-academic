@@ -17,7 +17,7 @@ authors:
 - Yunhao Liu
 tags: []
 categories: []
-date: '2021-01-01'
+date: ''
 lastmod: 2022-01-01T21:03:42-05:00
 featured: false
 draft: false
@@ -36,10 +36,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-02T02:03:40.111816Z'
+publishDate: ''
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 19th ACM Conference on Embedded Networked Sensor
-  Systems*'
+publication: 'ACM SenSys21'
+
+links:
+url_code: "https://github.com/hanqingguo/NELoRa-Sensys"
+url_pdf: "SenSys21_slides.pdf"
+url_slides: 'uploads/SenSys21_slides.pdf'
+
 ---

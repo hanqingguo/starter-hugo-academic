@@ -18,9 +18,10 @@ bio: My research interests include speech recognitions, signal processing, machi
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Signal Processing
+- Audio Machine Learning
+- Mobile Sensing & applications
+- AI Security
 
 # Education to show in About widget
 education:
@@ -43,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:guohanqi@msu.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/guohahaha1
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=AiFJsAMAAAAJ&hl=zh-CN&oi=ao
@@ -59,7 +57,7 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
+  // icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 
